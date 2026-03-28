@@ -2,7 +2,6 @@
 title: "The Wonder of Apples"
 description: "Exploring the health benefits, varieties, and culinary uses of apples, a truly versatile fruit."
 pubDate: 2026-03-28
-heroImage: ""
 ---
 
 Apples, one of the most widely cultivated and consumed fruits in the world, are not just delicious but also packed with numerous health benefits. From their crisp bite to their sweet and tart flavors, apples offer a delightful experience for the palate.

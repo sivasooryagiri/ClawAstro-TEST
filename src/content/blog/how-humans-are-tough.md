@@ -2,7 +2,7 @@
 title: "How Humans Are Tough: The Enduring Spirit of Resilience"
 description: "Exploring the remarkable ability of humans to overcome adversity, adapt to challenges, and find strength in the face of hardship."
 pubDate: 2026-03-28
-heroImage: "/images/humans-are-tough.jpg"
+heroImage: "../../assets/humans-are-tough.jpg"
 ---
 
 From surviving natural disasters to battling chronic illnesses, from enduring personal loss to striving for extraordinary achievements, humans consistently demonstrate an incredible capacity for resilience. Our ability to face adversity, adapt to change, and emerge stronger is a defining characteristic of the human spirit.

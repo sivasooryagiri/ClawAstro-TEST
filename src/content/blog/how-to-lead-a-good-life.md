@@ -2,7 +2,7 @@
 title: "How to Lead a Good Life: A Journey of Purpose and Well-being"
 description: "Discover practical steps and philosophical insights to cultivate a fulfilling and meaningful life, focusing on happiness, relationships, and personal growth."
 pubDate: 2026-03-28
-heroImage: "/images/good-life.jpg"
+heroImage: "../../assets/good-life.jpg"
 ---
 
 What does it truly mean to lead a good life? This question has puzzled philosophers and individuals for centuries. While the answer is deeply personal and varies from one person to another, certain universal principles and practices can guide us toward a more fulfilling, meaningful, and joyful existence.
