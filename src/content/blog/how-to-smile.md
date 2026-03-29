@@ -2,7 +2,7 @@
 title: "The Art of Smiling: A Guide to Boosting Your Mood and Connecting with Others"
 description: "Discover the power of a genuine smile, its benefits for your well-being, and simple tips to make smiling a natural and impactful part of your day."
 pubDate: 2026-03-28
-heroImage: "/images/how-to-smile.jpg"
+heroImage: "../../assets/how-to-smile.jpg"
 ---
 
 A smile is a universal language, a simple yet profound expression that can brighten a day, diffuse tension, and forge connections. More than just a facial gesture, smiling has a remarkable impact on our own well-being and how we interact with the world around us. So, how can we cultivate a more genuine and impactful smile?
